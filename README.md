@@ -1,3 +1,6 @@
+
+
+
 # 7°Skin | Luxury Skincare E-commerce Platform
 
 7°Skin is a full-stack skincare store built to show how modern web technology can create a high-end shopping experience. Using the MERN stack and Progressive Web App features, I focused on making the site fast, secure, and reliable—even when connectivity is limited. It works like a native app on your phone or computer, making it easy for customers to browse products and manage their orders.
@@ -65,8 +68,12 @@ To verify the Progressive Web App features:
 2. Check the address bar for the "Install" icon to add the app to your desktop or mobile home screen.
 3. Once installed, the app can be launched independently of the browser and will maintain core functionality even with limited network connectivity.
 
-## Live Deployment
-The application is currently being prepared for cloud deployment. Once live, a direct link to the demo will be provided here.
+
+
+https://github.com/user-attachments/assets/2d9993e6-2c99-48f2-8c1d-d97f86e6280f
+
+
+
 
 ---
 Developed by [Rashmi Abeysekera](https://github.com/Rashmi-Abeysekera)
