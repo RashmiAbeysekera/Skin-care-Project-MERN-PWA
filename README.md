@@ -1,59 +1,70 @@
-# ✨ 7°Skin | Luxury Skincare E-commerce (MERN + PWA)
+# 7°Skin | Luxury Skincare E-commerce Platform
 
-A high-performance, full-stack e-commerce platform dedicated to luxury skincare. This project was developed as a showcase for my internship portfolio, focusing on modern web standards, offline capabilities, and a premium user experience.
+7°Skin is a full-stack skincare store built to show how modern web technology can create a high-end shopping experience. Using the MERN stack and Progressive Web App features, I focused on making the site fast, secure, and reliable—even when connectivity is limited. It works like a native app on your phone or computer, making it easy for customers to browse products and manage their orders.
 
-## 🚀 Features
+## Core Features
 
-- **Full MERN Stack:** Integrated MongoDB, Express, React, and Node.js architecture.
-- **PWA Enabled:** Fully installable as a mobile/desktop app with offline caching and service workers.
-- **JWT Authentication:** Secure user sessions and protected routes.
-- **Responsive UI:** Elegant, mobile-first design built with Tailwind CSS.
-- **Product Management:** Dynamic catalog with advanced filtering and search.
+- **Full-Stack Build:** A complete integration of MongoDB, Express, React, and Node.js.
+- **PWA Integration:** The platform is installable on your home screen and uses service workers to load quickly and work offline.
+- **Secure Authentication:** Uses JSON Web Tokens (JWT) to keep user data and checkout routes safe.
+- **Responsive UI:** A clean, mobile-first design made with Tailwind CSS that looks great on any screen size.
+- **Interactive Shopping:** Includes live search, product filters, and an easy-to-use shopping cart.
 
-## 🛠 Tech Stack
+## Tech Stack
 
-**Frontend:**
+### Frontend
 ![React](https://img.shields.io/badge/react-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-**Backend:**
+### Backend
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-## 📦 Installation & Setup
+## Installation and Local Setup
 
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/YOUR_USERNAME/Skin-care-Project-MERN-PWA.git
    ```
 
-2. **Backend Setup:**
+2. **Configure Backend:**
    ```bash
    cd backend
    npm install
-   # Add your .env variables (MONGO_URI, JWT_SECRET)
    npm start
    ```
 
-3. **Frontend Setup:**
+3. **Configure Frontend:**
    ```bash
    cd ../skincare-frontend
    npm install
    npm run dev
    ```
 
-## 📱 Progressive Web App
-To experience the PWA features:
-1. Open the live site in Chrome.
-2. Click the **'Install'** icon in the address bar.
-3. The app will now be available in your OS app list/Home screen.
+## Project Showcase
 
-## 🌐 Live Demo
-Coming soon...
+### Application Overview
+This video walks through the core features of 7°Skin, showing how users browse products, view details, and go through the checkout process.
+
+<video src="assets/7skin.mp4" width="100%" controls></video>
+
+### Interface Gallery
+You can view the full gallery of screenshots here: [Project Screenshot Gallery](https://imgur.com/a/C81GN0L).
+
+![Homepage Preview](https://i.imgur.com/C81GN0L.png)
+
+## PWA Verification
+To verify the Progressive Web App features:
+1. Open the application in a Chrome browser.
+2. Check the address bar for the "Install" icon to add the app to your desktop or mobile home screen.
+3. Once installed, the app can be launched independently of the browser and will maintain core functionality even with limited network connectivity.
+
+## Live Deployment
+The application is currently being prepared for cloud deployment. Once live, a direct link to the demo will be provided here.
 
 ---
-Developed by [Your Name]
+Developed by [Rashmi Abeysekera](https://github.com/Rashmi-Abeysekera)
