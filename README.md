@@ -48,14 +48,12 @@
 ## Project Showcase
 
 ### Application Overview
-This video walks through the core features of 7°Skin, showing how users browse products, view details, and go through the checkout process.
+The following demonstration illustrates the core functionalities of the platform, including product discovery, detailed views, and the integrated checkout workflow.
 
-<video src="assets/7skin.mp4" width="100%" controls></video>
+<video src="./assets/7skin.mp4" width="100%" controls></video>
 
 ### Interface Gallery
-You can view the full gallery of screenshots here: [Project Screenshot Gallery](https://imgur.com/a/C81GN0L).
-
-![Homepage Preview](https://i.imgur.com/C81GN0L.png)
+A comprehensive gallery documenting the user interface and platform aesthetics is available for review: [Project Screenshot Gallery](https://imgur.com/a/C81GN0L).
 
 ## PWA Verification
 To verify the Progressive Web App features:
