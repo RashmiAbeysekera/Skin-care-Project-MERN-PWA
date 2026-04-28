@@ -50,7 +50,7 @@
 ### Application Overview
 The following demonstration illustrates the core functionalities of the platform, including product discovery, detailed views, and the integrated checkout workflow.
 
-<video src="./assets/7skin.mp4" width="100%" controls></video>
+<video src="https://github.com/Rashmi-Abeysekera/Skin-care-Project-MERN-PWA/raw/main/assets/7skin.mp4" width="100%" controls></video>
 
 ### Interface Gallery
 A comprehensive gallery documenting the user interface and platform aesthetics is available for review: [Project Screenshot Gallery](https://imgur.com/a/C81GN0L).
